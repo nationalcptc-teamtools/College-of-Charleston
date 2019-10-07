@@ -1,3 +1,4 @@
+#!/bin/bash
 if [[ -d /data/logs ]]; then
    echo -e "${RED}[!] Logging directory already exists${RESET}"
 else
